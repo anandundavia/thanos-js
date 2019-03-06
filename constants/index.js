@@ -8,6 +8,6 @@ module.exports = {
 	},
 	arguments: {
 		snapFingers: 'snap-fingers',
-		withGlove: 'infinity-gauntlet-glove',
+		withGlove: 'with-infinity-gauntlet-glove',
 	},
 };
