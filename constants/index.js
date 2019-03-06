@@ -6,4 +6,8 @@ module.exports = {
 	confirmation: {
 		fileName: '_CONFIRMATION_',
 	},
+	arguments: {
+		snapFingers: 'snap-fingers',
+		withGlove: 'infinity-gauntlet-glove',
+	},
 };
