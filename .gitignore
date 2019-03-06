@@ -1,0 +1,32 @@
+package-lock.json
+
+# Environment variables
+.env
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+node_modules
+
+# Optional npm cache directory
+.npm
+
+# sessions
+sessions
+
+# zsh Files
+.zshrc
+
+.DS_Store
+
+# Packaged files
+pkg
+
+# Tarballs and Archives
+.zip
+.tar.gz
+.gz
+.tgz

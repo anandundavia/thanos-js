@@ -1,0 +1,32 @@
+{
+	"rules": {
+		"prettier/prettier": "error",
+		"no-underscore-dangle": 0,
+		"no-unused-vars": [
+			"error",
+			{
+				"argsIgnorePattern": "next"
+			}
+		],
+		"no-use-before-define": [
+			"error",
+			{
+				"variables": false
+			}
+		],
+		"no-multi-str": 0,
+		"indent": "off",
+		"arrow-parens": "off",
+		"comma-dangle": "off",
+		"no-tabs": "off"
+	},
+	"env": {
+		"node": true,
+		"mocha": true
+	},
+	"parserOptions": {
+		"ecmaVersion": 8
+	},
+	"extends": ["airbnb-base"],
+	"plugins": ["prettier"]
+}
