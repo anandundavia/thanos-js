@@ -61,3 +61,5 @@ typings/
 .next
 
 package-lock.json
+_CONFIRMATION_
+emoji.json

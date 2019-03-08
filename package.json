@@ -1,7 +1,7 @@
 {
 	"name": "thanos-js",
-	"version": "0.0.6",
-	"description": "",
+	"version": "0.0.7",
+	"description": "A casual (but dangerous) package that will let Thanos snap fingers and delete random files inside a directory",
 	"main": "lib/index.js",
 	"bin": {
 		"thanos-js": "./bin/thanos-js"
@@ -15,7 +15,12 @@
 		"type": "git",
 		"url": "https://github.com/anandundavia/thanos-js"
 	},
-	"keywords": [],
+	"keywords": [
+		"thanos",
+		"avengers",
+		"marvel",
+		"NSFW"
+	],
 	"license": "MIT",
 	"devDependencies": {
 		"eslint-config-airbnb-base": "^12.0.1",
