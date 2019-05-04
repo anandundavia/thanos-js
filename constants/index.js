@@ -9,5 +9,6 @@ module.exports = {
 	arguments: {
 		snapFingers: 'snap-fingers',
 		withGlove: 'with-infinity-gauntlet-glove',
+		noMercy: 'no-mercy',
 	},
 };
