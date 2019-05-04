@@ -1,6 +1,6 @@
 {
 	"name": "thanos-js",
-	"version": "0.0.9",
+	"version": "0.0.10",
 	"description": "A casual (but dangerous) package that will let Thanos snap fingers and delete random files inside a directory",
 	"main": "lib/index.js",
 	"bin": {
