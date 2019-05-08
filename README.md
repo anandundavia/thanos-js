@@ -25,12 +25,4 @@ You are lucky though, he can only carry out destruction in the directory in whic
 -   It traverses the whole directory structure down from where the command is executed. So files inside child directories might be deleted.
 
 -   It does not traverse every directory. `node_modules`, `.git` and other directories starting with '`.`' are not traversed. [ Deleting random files from `.git` would be absolutely evil and Thanos would LOVE to do it 😈 ]
--   It is not fixed that the number of files deleted would exactly be half or one quarter. The piece of code that decides whether the file should be deleted or not is this:
-
-```js
-const random = Math.floor(Math.random() * 100);
-const shouldDelete = gonnaUseGlove ? random < 50 : random < 25;
-if (shouldDelete) {
-	// logic to delete the file
-}
-```
+-   Exactly half of the files are deleted. Each file is given a `chance` at random and either the top 50% of the files or bottom 50% of files are chosen to be deleted.
