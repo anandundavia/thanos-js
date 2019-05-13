@@ -1,9 +1,7 @@
 # thanos-js
 
 Thanos has now arrived on your PC and he will bring havoc to your files.
-
-He will wipe out about one quarter of your files if he snaps fingers without gauntlet.
-And If he has the gauntlet, he will crush about half of them.
+He will wipe out exactly half of your files when he snaps fingers wearing the infinity-gauntlet-glove
 
 You are lucky though, he can only carry out destruction in the directory in which the command is executed.
 
