@@ -10,5 +10,6 @@ module.exports = {
 		snapFingers: 'snap-fingers',
 		withGlove: 'with-infinity-gauntlet-glove',
 		noMercy: 'no-mercy',
+		ironManWithGauntlet: 'iron-man-with-gauntlet'
 	},
 };
