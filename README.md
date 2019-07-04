@@ -24,3 +24,7 @@ You are lucky though, he can only carry out destruction in the directory in whic
 
 -   It does not traverse every directory. `node_modules`, `.git` and other directories starting with '`.`' are not traversed. [ Deleting random files from `.git` would be absolutely evil and Thanos would LOVE to do it 😈 ]
 -   Exactly half of the files are deleted. Each file is given a `chance` at random and either the top 50% of the files or bottom 50% of files are chosen to be deleted.
+
+## Other Similar Implementations
+
+-   JAVA - [thanos.jar](#https://github.com/aeris170/thanos.jar)
