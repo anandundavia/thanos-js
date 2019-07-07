@@ -27,4 +27,4 @@ You are lucky though, he can only carry out destruction in the directory in whic
 
 ## Other Similar Implementations
 
--   JAVA - [thanos.jar](#https://github.com/aeris170/thanos.jar)
+-   JAVA - [thanos.jar](https://github.com/aeris170/thanos.jar)
